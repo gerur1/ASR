@@ -1,5 +1,5 @@
 import time
-from getSNMP import consultaSNMP
+from getSNMP_P1 import consultaSNMP
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import A4
 
