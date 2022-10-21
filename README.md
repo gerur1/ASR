@@ -1,2 +1,2 @@
 # ASR
-Practicas de la materia Administración de servicios en red
+Prácticas de la materia Administración de servicios en red
